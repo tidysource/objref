@@ -1,5 +1,5 @@
 {
-  "name": "tidysource/objref",
+  "name": "objref",
   "version": "1.0.1",
   "description": "Returns deep property of an object via a string path",
   "main": "index.js",
